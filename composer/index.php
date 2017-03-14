@@ -1,6 +1,6 @@
 <?php
 include 'password.php';
-?>
+?>  
 <!DOCTYPE html>
 <html>
     <head>
